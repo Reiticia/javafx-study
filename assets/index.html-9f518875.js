@@ -1,0 +1,1 @@
+const a=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"JavaFX笔记","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":1699332419000,"contributors":[{"name":"Reiticia","email":"149501682+Reiticia@users.noreply.github.com","commits":1},{"name":"reine-ishyanami","email":"2402979195@qq.com","commits":1}]},"filePathRelative":"README.md"}');export{a as data};
